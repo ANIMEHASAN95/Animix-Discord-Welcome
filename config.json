@@ -1,0 +1,24 @@
+{
+  "token": "your_discord_bot_tocken",
+  "guildId": "you discord guild id",
+
+  "prefix": ".",
+
+  "welcomeChannelId": "welcome_channel_id",
+  "welcomeMessage": "your_discord_working_imojis **WELCOME TO SODAMC!**\n{Name}\n\n> <:emoji_11:1542089496370356336> \n> **The adventure\n> begins here\n> Join our**\n\n> community, meet\n> new players,\n> compete, and\n> make your mark\n> on SODAMC!\n\n*🌐||`play.sodamc.tun:19132`||\n\n🎮 **SERVER's**\n<:minisword:1542082681720799274>  lifesteal • practice • ub*\n\n> 🛒 STORE\n||`https://store.sodamc.fun/`||\n\n<:emoji_3:1542081914783928350>  ||PLAY • COMPETE • CONNECT||\n🚀 Welcome to SODAMC — your journey starts now!",
+  "welcomeBannerUrl": "https://cdn.discordapp.com/attachments/1536659929648074792/1542106882175537213/standard.gif?ex=6a900673&is=6a8eb4f3&hm=c509928d5cf5996d75f3f38f5fc452342c7f3cc4971abea5098c114843432f5c&",
+
+  "joinedChannelId": "your_welcome_channel",
+  "leftChannelId": "your_leaves_player_channel_id",
+
+  "joinNoInviteMessage": "**{name}** has joined **your_name**, I don't know who invited them.",
+  "joinWithInviteMessage": "**{name}** has joined the **your_name**, invited by **{invitinguser}**",
+  "leaveKnownInviterMessage": "{lefteduser} has left **your_name**, invited by **{invitinguser}**",
+  "leaveUnknownInviterMessage": "{lefteduser} has left **your_name**, I don't know who invited them.",
+
+  "embedColor": "FF4500",
+
+  "fakeInviteAccountAgeDays": 7,
+
+  "adminRoleIds": [admin_rold_id]
+}

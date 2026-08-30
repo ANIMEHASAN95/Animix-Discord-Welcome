@@ -1,0 +1,12 @@
+{
+  "name": "welcome-bot",
+  "version": "1.0.0",
+  "description": "Welcome message bot for SODAMC Discord server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
